@@ -1,0 +1,6 @@
+Befour you Write and run a test scripts with Selenium Tool you need to prepare Selenium Environment
+
+1-Language Programming as Java -->install JDK
+2-Stuitable IDE as intellJ,Eclips etc -->install intellj
+3-Download Selenium-java Files
+4-Download Webdriver -->chrome

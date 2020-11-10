@@ -9,7 +9,7 @@ public class Main {
     public static void main(String[] args) throws InterruptedException {
         System.out.println("Hello_World");
 
-        System.setProperty("webdriver.chrome.driver","C:\\Users\\asmaa\\Desktop\\SWE\\PreRequists\\chromedriver_win32_86\\chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver","chromedriver.exe");
         WebDriver driver =new ChromeDriver();
         driver.get("https://www.gmail.com/");
         driver.manage().window().maximize();
